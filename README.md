@@ -3,7 +3,7 @@
 - Developed an interactive dashboard, analysing churn rate by gender, age, tenure, and service categories.
    <br>
    <br>
-- ![image](https://github.com/user-attachments/assets/ac116692-54e9-4272-8545-64a78c58af86)
+ ![image](https://github.com/user-attachments/assets/ac116692-54e9-4272-8545-64a78c58af86)
 
 
 
